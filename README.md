@@ -1,2 +1,5 @@
 # Feed-me-up
-RSS
+
+<https://feed-me-up-scotty.vincenttunru.com/>
+
+> RSS feeds for arbitrary websites, using CSS selectors.

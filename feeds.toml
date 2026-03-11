@@ -1,0 +1,10 @@
+[default]
+timeout = 30
+
+[marathongame]
+title = "Bungie Marathon News"
+url = "https://www.bungie.net/7/en/News/Marathon"
+entrySelector = "a[class*='NewsPreview']"
+titleSelector = "h1"
+linkSelector = "*"
+waitForSelector = "a[class*='NewsPreview']"
