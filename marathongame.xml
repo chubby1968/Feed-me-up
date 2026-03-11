@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-03-11T07:37:22.272Z</updated>
+    <updated>2026-03-11T18:08:17.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tune into the Tau Ceti Cup on March 14]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/tau_ceti_cup_tune_in</id>
+        <link href="https://www.bungie.net/7/en/News/Article/tau_ceti_cup_tune_in"/>
+        <updated>2026-03-11T18:08:17.076Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltef466dc5daf9edcf/69b0625f25dc3e0008695b0a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Secure unique Twitch Drops and watch six teams compete to be the best on Tau Ceti<span> – 4h</span></h4><h1 class="NewsPreview_title__tjwyh">Tune into the Tau Ceti Cup on March 14</h1></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.0.0.4]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_0_4</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_0_0_4"/>
+        <updated>2026-03-11T18:08:17.076Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt19e79d6156595257/69af552321e8760008bd1321/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Rook.<span> – 4h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.0.4</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon OST is Streaming Now]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_ost_streaming_now</id>
