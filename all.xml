@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-19T18:07:57.919Z</updated>
+    <updated>2026-03-20T06:10:35.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Cryo Archive (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/cryo_archive_overview</id>
+        <link href="https://www.bungie.net/7/en/News/Article/cryo_archive_overview"/>
+        <updated>2026-03-20T06:10:34.357Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blteac37d68cf7f1eac/69bb826fb5128f3bed30c971/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Gear up, grab your crew, and fight your way through the UESC Marathon.<span> – 12h</span></h4><h1 class="NewsPreview_title__tjwyh">Welcome to Cryo Archive</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ranked in Marathon (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/ranked_in_marathon</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/alpha_update"/>
         <updated>2026-03-11T07:37:21.539Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt25561b3a5206e7f4/6802a5348e7aaa84994632c0/SteamCover.png&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">What’s in the Alpha, what's not, and dropping the NDA.<span> – 4/18/2025</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Closed Alpha Update</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gameplay Reveal Showcase: Trailers, Cinematics & More (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/gameplay_reveal_showcase</id>
-        <link href="https://www.bungie.net/7/en/News/Article/gameplay_reveal_showcase"/>
-        <updated>2026-03-11T07:37:21.540Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltfa9fcb03825db40f/67f6e49bc5750ad5c2b5a12e/XBOX_MRTHN_16x9-Super-Hero-Art_1920x1080_EN_web-8.png&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Ready for your first look at Marathon? 👀  <span> – 4/12/2025</span></h4><h1 class="NewsPreview_title__tjwyh">Gameplay Reveal Showcase: Trailers, Cinematics &amp; More</h1></div>]]></content>
     </entry>
 </feed>
