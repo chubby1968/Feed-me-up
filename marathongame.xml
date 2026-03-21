@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-03-20T17:57:51.424Z</updated>
+    <updated>2026-03-21T05:59:26.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bungie.net/7/en/News/Article/cryo_archive_overview</id>
         <link href="https://www.bungie.net/7/en/News/Article/cryo_archive_overview"/>
         <updated>2026-03-20T06:10:34.357Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blteac37d68cf7f1eac/69bb826fb5128f3bed30c971/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Gear up, grab your crew, and fight your way through the UESC Marathon.<span> – 23h</span></h4><h1 class="NewsPreview_title__tjwyh">Welcome to Cryo Archive</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blteac37d68cf7f1eac/69bb826fb5128f3bed30c971/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Gear up, grab your crew, and fight your way through the UESC Marathon.<span> – 3/19/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Welcome to Cryo Archive</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ranked in Marathon]]></title>
