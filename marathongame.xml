@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-03-24T18:13:00.042Z</updated>
+    <updated>2026-03-25T06:37:00.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Update 1.0.5.1]]></title>
+        <title type="html"><![CDATA[Marathon Update 1.0.5.1]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5_1</id>
         <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5_1"/>
         <updated>2026-03-24T18:12:59.269Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt19e79d6156595257/69af552321e8760008bd1321/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS"><span> – 2h</span></h4><h1 class="NewsPreview_title__tjwyh">Update 1.0.5.1</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt19e79d6156595257/69af552321e8760008bd1321/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive (Cont.)<span> – 14h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.5.1</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Cryo Archive]]></title>
