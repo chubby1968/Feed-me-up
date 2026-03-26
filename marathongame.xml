@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-03-26T06:48:06.496Z</updated>
+    <updated>2026-03-26T18:14:21.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Marathon Community Comms: Where To Find Us]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_community_comms_where_find_us</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_community_comms_where_find_us"/>
+        <updated>2026-03-26T18:14:20.666Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt1b5544ccc9b32c1a/69c470fa97d77a1f8375b7bf/Thief_Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">We’re bringing the latest and greatest, straight to you<span> – 2h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Community Comms: Where To Find Us</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.0.5.1]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5_1</id>
@@ -172,12 +179,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/marathonpatchnotes0502"/>
         <updated>2026-03-11T07:37:21.536Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltaaa780ff730cecc3/68124bd6c8a94b25bf6a95e3/Patch_Notes_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about removing mouse magnetism and adjusting runner health and shield values. <span> – 4/30/2025</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Closed Alpha Update 0.5.0.2</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon Closed Alpha Week 2 Update]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathonalphaweek2</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathonalphaweek2"/>
-        <updated>2026-03-11T07:37:21.537Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt66e28263cbf9174d/681141273b56c2b33517587e/1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">New patch imminent<span> – 4/29/2025</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Closed Alpha Week 2 Update</h1></div>]]></content>
     </entry>
 </feed>
