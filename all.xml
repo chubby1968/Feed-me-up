@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-21T07:10:19.503Z</updated>
+    <updated>2026-04-21T18:37:28.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.0.6.1 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1061</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1061"/>
+        <updated>2026-04-21T18:37:27.543Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about overflow items<span> – 5h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.6.1</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing C.A.R.R.I. - CyberAcme’s New Protocol (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/introducing_carri</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/marathon-releases-march-5-2026-new-trailer-and-more"/>
         <updated>2026-03-11T07:37:21.528Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2c642f47d6dea502/696abf21f949960008bfa1fe/Mrtn_Blog-grfx-pre-order-011426-1920x590.png&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Collector’s Edition, English voice cast, and more revealed. Pre-orders available now.<span> – 1/20/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Releases March 5, 2026: New Trailer &amp; More</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dev Insights: Runner Shells – New Video (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/dev-insights-runner-shells-new-video</id>
-        <link href="https://www.bungie.net/7/en/News/Article/dev-insights-runner-shells-new-video"/>
-        <updated>2026-03-11T07:37:21.530Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blteea3fcafd0c0aaf7/6967eab0149b230008624601/Marathon_DevInsight_RunnerShells_1920x590-1.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Learn more about Runner shells, moddable biosynthetic bodies designed for survival.<span> – 1/15/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Dev Insights: Runner Shells – New Video</h1></div>]]></content>
     </entry>
 </feed>
