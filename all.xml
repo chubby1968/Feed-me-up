@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-19T08:41:54.597Z</updated>
+    <updated>2026-05-19T19:23:53.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.0.9 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_109</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_109"/>
+        <updated>2026-05-19T19:23:53.206Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about the Warden Hunt<span> – 6h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.9</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch, Learnings, and What’s Next (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/launch_learning_whatsnext</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/marathon_server_slam_almost_here"/>
         <updated>2026-03-11T07:37:21.519Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltb9445763f9ffa790/699e0561f41d204353d3b8c0/bnet_blog_font_page_mobile.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Take your first real steps on Tau Ceti, help us stress test the servers, and earn rewards for launch<span> – 2/25/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon's Server Slam Is Almost Here</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon: Networking and Security (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathonsecurity</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathonsecurity"/>
-        <updated>2026-03-11T07:37:21.524Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltbb2b76b437afa301/699c8d77370b580008b4215b/bnet_blog_font_page_mobile.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The forever war against cheaters.<span> – 2/23/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon: Networking and Security</h1></div>]]></content>
     </entry>
 </feed>
