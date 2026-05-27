@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-27T08:51:17.390Z</updated>
+    <updated>2026-05-27T19:35:58.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Season 2 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/welcome_season_2</id>
+        <link href="https://www.bungie.net/7/en/News/Article/welcome_season_2"/>
+        <updated>2026-05-27T19:35:58.304Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt67010c03cb8de60c/6a161283b1db6352af0dc84a/S2_Key_Art_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Introducing Night Marsh, a new Runner shell, new weapons, progression improvements, and more<span> – 5h</span></h4><h1 class="NewsPreview_title__tjwyh">Welcome to Season 2</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.0.9.1 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_9_1</id>
         <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_0_9_1"/>
         <updated>2026-05-26T19:32:08.914Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one where Rook escapes.<span> – 19h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.9.1</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one where Rook escapes.<span> – 5/26/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.9.1</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.0.9 (Bungie Marathon News)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/server_slam_wrap_up"/>
         <updated>2026-03-11T07:37:21.516Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltb63be7a8e39f2eeb/69a5aed8e3a782d8a5f1427e/SS_WrapUp_Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Check out fun stats from the Slam and get ready for the real deal on March 5.<span> – 3/2/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Thanks for playing in the Server Slam!</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play Marathon Now in the Server Slam (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/play_marathon_now_server_slam</id>
-        <link href="https://www.bungie.net/7/en/News/Article/play_marathon_now_server_slam"/>
-        <updated>2026-03-11T07:37:21.518Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt7006f53ee4c41881/69a0bbf17faa5f1085ff54fe/Front_Page_Mobile_1080x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Take on Tau Ceti in the open preview weekend from February 26 to March 2<span> – 2/26/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Play Marathon Now in the Server Slam</h1></div>]]></content>
     </entry>
 </feed>
