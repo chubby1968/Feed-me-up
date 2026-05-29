@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-29T08:54:29.433Z</updated>
+    <updated>2026-05-29T19:44:44.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Season 2 Combat Tuning Preview (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/season_2_combat_tuning_preview</id>
+        <link href="https://www.bungie.net/7/en/News/Article/season_2_combat_tuning_preview"/>
+        <updated>2026-05-29T19:44:43.933Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt4c6998cf1da6f5c0/6a176a4a9934cb08b297d3ed/Combat_Tuning_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Prepare to be prepared.<span> – 5h</span></h4><h1 class="NewsPreview_title__tjwyh">Season 2 Combat Tuning Preview</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Season 2 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/welcome_season_2</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/introducing_seasons_marathon"/>
         <updated>2026-03-11T07:37:21.515Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltae09e6a90c476841/69a6400fcc5c6941c19424ed/Front_Page_Image_1920x1080LaunchBeyond.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Learn how seasons work in Marathon plus what’s planned for Season 1 and beyond<span> – 3/3/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Introducing Seasons in Marathon</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks for playing in the Server Slam! (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/server_slam_wrap_up</id>
-        <link href="https://www.bungie.net/7/en/News/Article/server_slam_wrap_up"/>
-        <updated>2026-03-11T07:37:21.516Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltb63be7a8e39f2eeb/69a5aed8e3a782d8a5f1427e/SS_WrapUp_Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Check out fun stats from the Slam and get ready for the real deal on March 5.<span> – 3/2/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Thanks for playing in the Server Slam!</h1></div>]]></content>
     </entry>
 </feed>
