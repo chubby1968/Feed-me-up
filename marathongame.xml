@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-06-02T09:45:08.229Z</updated>
+    <updated>2026-06-02T20:23:06.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Open Play Week: June 2 - June 9]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/open_play_week_june_2_9</id>
-        <link href="https://www.bungie.net/7/en/News/Article/open_play_week_june_2_9"/>
-        <updated>2026-06-01T21:07:02.306Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2e4225a9a0f3d244/6a1da1c74f58a785aef283ba/S2_Free_Weekend_Header_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Check out the full game this week, including all of Season 2 and the new experimental mode<span> – 19h</span></h4><h1 class="NewsPreview_title__tjwyh">Open Play Week: June 2 - June 9</h1></div>]]></content>
+        <title type="html"><![CDATA[Season 2 is Now Live]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/season_2_is_now_live</id>
+        <link href="https://www.bungie.net/7/en/News/Article/season_2_is_now_live"/>
+        <updated>2026-06-02T20:23:05.776Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltcbb9253c341a80d7/6a1a20b1111efc0e4c2e31ee/S2_Live_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Prepare to go bump in the night.<span> – 4h</span></h4><h1 class="NewsPreview_title__tjwyh">Season 2 is Now Live</h1></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.0]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0"/>
+        <updated>2026-06-02T20:23:05.777Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one where the shadows move.<span> – 7h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Season 1 Comes To A Close…]]></title>
         <id>https://www.bungie.net/7/en/News/Article/season_1_wrap_up</id>
         <link href="https://www.bungie.net/7/en/News/Article/season_1_wrap_up"/>
         <updated>2026-06-01T21:07:02.306Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt39b3460a68450c0e/6a19da44132847a55541af65/S1_Wrapped_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">…Time to see how you all did.<span> – 19h</span></h4><h1 class="NewsPreview_title__tjwyh">Season 1 Comes To A Close…</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt39b3460a68450c0e/6a19da44132847a55541af65/S1_Wrapped_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">…Time to see how you all did.<span> – 6/1/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Season 1 Comes To A Close…</h1></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Play Week: June 2 - June 9]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/open_play_week_june_2_9</id>
+        <link href="https://www.bungie.net/7/en/News/Article/open_play_week_june_2_9"/>
+        <updated>2026-06-01T21:07:02.306Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2e4225a9a0f3d244/6a1da1c74f58a785aef283ba/S2_Free_Weekend_Header_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Check out the full game this week, including all of Season 2 and the new experimental mode<span> – 6/1/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Open Play Week: June 2 - June 9</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Season 2 Combat Tuning Preview]]></title>
@@ -165,19 +179,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/marathon_ost_streaming_now"/>
         <updated>2026-03-11T07:37:21.511Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltc55d6709b4b09956/69a8a81c13b99a847d3d2ffc/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Two volumes, 42 tracks, all vibes: available now<span> – 3/6/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon OST is Streaming Now</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon is Live Now]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathon_is_live_now</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathon_is_live_now"/>
-        <updated>2026-03-11T07:37:21.511Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2b0af2e274057290/69a8919e1b70522b1075ed4e/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Your first death awaits<span> – 3/5/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon is Live Now</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon Starter Tips]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathon_starter_tips</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathon_starter_tips"/>
-        <updated>2026-03-11T07:37:21.512Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltb2bf6b099b597780/69a9bfb00b360ad294b8fa7a/Marathon_Header_01_16_9.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Tips to help you find your footing on the surface!<span> – 3/5/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Starter Tips</h1></div>]]></content>
     </entry>
 </feed>
