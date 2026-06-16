@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-16T10:23:25.569Z</updated>
+    <updated>2026-06-16T20:21:52.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.0.2 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_2</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_2"/>
+        <updated>2026-06-16T20:21:51.915Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about the C.A.R.R.I protocol returning.<span> – 5h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0.2</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.0.1 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_1</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/tau_ceti_cup_tune_in"/>
         <updated>2026-03-11T18:08:17.076Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltef466dc5daf9edcf/69b0625f25dc3e0008695b0a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Secure unique Twitch Drops and watch six teams compete to be the best on Tau Ceti<span> – 3/11/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Tune into the Tau Ceti Cup on March 14</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon Update 1.0.0.4 (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_0_4</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_0_0_4"/>
-        <updated>2026-03-11T18:08:17.076Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt19e79d6156595257/69af552321e8760008bd1321/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Rook.<span> – 3/11/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.0.4</h1></div>]]></content>
     </entry>
 </feed>
