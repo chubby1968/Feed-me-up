@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-23T08:40:44.038Z</updated>
+    <updated>2026-06-23T19:22:48.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Get to Know Marathon’s Bungie Rewards (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/get_to_know_marathons_bungie_rewards</id>
+        <link href="https://www.bungie.net/7/en/News/Article/get_to_know_marathons_bungie_rewards"/>
+        <updated>2026-06-23T19:22:47.732Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt194c119903cc6cb1/6a3ac8b1e806623cce3531d6/Evergreen_Rewards_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">How to secure exclusive merchandise for your IRL vault.<span> – 3h</span></h4><h1 class="NewsPreview_title__tjwyh">Get to Know Marathon’s Bungie Rewards</h1></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.0.3 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_3</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_3"/>
+        <updated>2026-06-23T19:22:47.732Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive Sponsored Kits.<span> – 4h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0.3</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.0.2 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_2</id>
@@ -164,19 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/ranked_in_marathon"/>
         <updated>2026-03-18T18:19:20.413Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt64f43e50dd07d45b/69b8717142c8c431ef342425/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Gear up for glory.<span> – 3/18/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Ranked in Marathon</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon Update 1.0.5 (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5"/>
-        <updated>2026-03-17T18:12:12.595Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt19e79d6156595257/69af552321e8760008bd1321/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive.<span> – 3/17/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.5</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tune into the Tau Ceti Cup on March 14 (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/tau_ceti_cup_tune_in</id>
-        <link href="https://www.bungie.net/7/en/News/Article/tau_ceti_cup_tune_in"/>
-        <updated>2026-03-11T18:08:17.076Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltef466dc5daf9edcf/69b0625f25dc3e0008695b0a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Secure unique Twitch Drops and watch six teams compete to be the best on Tau Ceti<span> – 3/11/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Tune into the Tau Ceti Cup on March 14</h1></div>]]></content>
     </entry>
 </feed>
