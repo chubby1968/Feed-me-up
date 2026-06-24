@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-06-23T19:22:48.223Z</updated>
+    <updated>2026-06-24T08:38:03.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Marathon Key Dates]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/season_2_key_dates</id>
+        <link href="https://www.bungie.net/7/en/News/Article/season_2_key_dates"/>
+        <updated>2026-06-24T08:38:03.304Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blte3a86f18b82a4a37/6a3acc9488fbfec304e91547/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Mid-season begins July 21 and includes Vault Breaker, an experimental PVE mode on Cryo Archive.<span> – 13h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Key Dates</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get to Know Marathon’s Bungie Rewards]]></title>
         <id>https://www.bungie.net/7/en/News/Article/get_to_know_marathons_bungie_rewards</id>
         <link href="https://www.bungie.net/7/en/News/Article/get_to_know_marathons_bungie_rewards"/>
         <updated>2026-06-23T19:22:47.732Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt194c119903cc6cb1/6a3ac8b1e806623cce3531d6/Evergreen_Rewards_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">How to secure exclusive merchandise for your IRL vault.<span> – 3h</span></h4><h1 class="NewsPreview_title__tjwyh">Get to Know Marathon’s Bungie Rewards</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt194c119903cc6cb1/6a3ac8b1e806623cce3531d6/Evergreen_Rewards_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">How to secure exclusive merchandise for your IRL vault.<span> – 16h</span></h4><h1 class="NewsPreview_title__tjwyh">Get to Know Marathon’s Bungie Rewards</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.0.3]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_3</id>
         <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_3"/>
         <updated>2026-06-23T19:22:47.732Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive Sponsored Kits.<span> – 4h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0.3</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive Sponsored Kits.<span> – 17h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0.3</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.0.2]]></title>
@@ -172,12 +179,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/cryo_archive_overview"/>
         <updated>2026-03-20T06:10:34.357Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blteac37d68cf7f1eac/69bb826fb5128f3bed30c971/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Gear up, grab your crew, and fight your way through the UESC Marathon.<span> – 3/19/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Welcome to Cryo Archive</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ranked in Marathon]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/ranked_in_marathon</id>
-        <link href="https://www.bungie.net/7/en/News/Article/ranked_in_marathon"/>
-        <updated>2026-03-18T18:19:20.413Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt64f43e50dd07d45b/69b8717142c8c431ef342425/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Gear up for glory.<span> – 3/18/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Ranked in Marathon</h1></div>]]></content>
     </entry>
 </feed>
