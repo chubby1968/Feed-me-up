@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-09T08:50:23.621Z</updated>
+    <updated>2026-07-09T19:04:23.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.0.5 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_5</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_5"/>
+        <updated>2026-07-09T19:04:22.956Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The solo note about Solos.<span> – 1h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0.5</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.0.4 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_4</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/marathon_community_comms_where_find_us"/>
         <updated>2026-03-26T18:14:20.666Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt1b5544ccc9b32c1a/69c470fa97d77a1f8375b7bf/Thief_Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">We’re bringing the latest and greatest, straight to you<span> – 3/26/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Community Comms: Where To Find Us</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon Update 1.0.5.1 (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5_1</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_0_5_1"/>
-        <updated>2026-03-24T18:12:59.269Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt19e79d6156595257/69af552321e8760008bd1321/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive (Cont.)<span> – 3/24/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.5.1</h1></div>]]></content>
     </entry>
 </feed>
