@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-11T06:12:29.684Z</updated>
+    <updated>2026-08-11T18:13:07.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.5.3 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_5_3</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_5_3"/>
+        <updated>2026-08-11T18:13:07.341Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about the FPS counter<span> – 4h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.5.3</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.5.2 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_5_2</id>
@@ -171,12 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1061"/>
         <updated>2026-04-21T18:37:27.543Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about overflow items<span> – 4/21/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.0.6.1</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing C.A.R.R.I. - CyberAcme’s New Protocol (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/introducing_carri</id>
-        <link href="https://www.bungie.net/7/en/News/Article/introducing_carri"/>
-        <updated>2026-04-14T18:42:40.142Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt0246b78200070bf5/69dd245296d8f04df364bbff/2026_Marathon_Carri_Crops_Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Learn more about ONI’s latest protocol for tracking who survives Tau Ceti… and who thrives, together. <span> – 4/14/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Introducing C.A.R.R.I. - CyberAcme’s New Protocol</h1></div>]]></content>
     </entry>
 </feed>
