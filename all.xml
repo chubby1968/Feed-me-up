@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-17T17:51:38.645Z</updated>
+    <updated>2026-08-18T05:51:55.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ordnance Heist (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/ordnance_heist</id>
         <link href="https://www.bungie.net/7/en/News/Article/ordnance_heist"/>
         <updated>2026-08-17T17:51:38.099Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt612309d23720f609/6a7f815789eb5c1387ab57ad/Ordnance_Heist_1080x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Hunt across Tau Ceti and secure an experimental power weapon.<span> – 1h</span></h4><h1 class="NewsPreview_title__tjwyh">Ordnance Heist</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt612309d23720f609/6a7f815789eb5c1387ab57ad/Ordnance_Heist_1080x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Hunt across Tau Ceti and secure an experimental power weapon.<span> – 13h</span></h4><h1 class="NewsPreview_title__tjwyh">Ordnance Heist</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.5.3 (Bungie Marathon News)]]></title>
