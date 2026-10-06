@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-06T12:07:44.305Z</updated>
+    <updated>2026-10-06T21:45:56.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon: Nightfall Refresh and Symbiosis Roadmap (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/nighfall_refresh_symbiosis_roadmap</id>
+        <link href="https://www.bungie.net/7/en/News/Article/nighfall_refresh_symbiosis_roadmap"/>
+        <updated>2026-10-06T21:45:56.390Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/bltfef31da3a90e215d/6abfc427e791e023d136313f/Nightfall_Refresh_Blog_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__9dbbW"></div><div class="NewsPreview_text__tQQDk"><h4 class="NewsPreview_subtitle__iu1uf">Our Evolution Begins<span> – 6h</span></h4><h1 class="NewsPreview_title__yoKzx">Marathon: Nightfall Refresh and Symbiosis Roadmap</h1></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.9.2 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_2</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_2"/>
+        <updated>2026-10-06T21:45:56.390Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__9dbbW"></div><div class="NewsPreview_text__tQQDk"><h4 class="NewsPreview_subtitle__iu1uf">The one about Nightfall Refresh<span> – 7h</span></h4><h1 class="NewsPreview_title__yoKzx">Marathon Update 1.1.9.2</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Marathon (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/futureofmarathon</id>
@@ -164,19 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/season_1_wrap_up"/>
         <updated>2026-06-01T21:07:02.306Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt39b3460a68450c0e/6a19da44132847a55541af65/S1_Wrapped_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__9dbbW"></div><div class="NewsPreview_text__tQQDk"><h4 class="NewsPreview_subtitle__iu1uf">…Time to see how you all did.<span> – 6/1/2026</span></h4><h1 class="NewsPreview_title__yoKzx">Season 1 Comes To A Close…</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Play Week: June 2 - June 9 (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/open_play_week_june_2_9</id>
-        <link href="https://www.bungie.net/7/en/News/Article/open_play_week_june_2_9"/>
-        <updated>2026-06-01T21:07:02.306Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2e4225a9a0f3d244/6a1da1c74f58a785aef283ba/S2_Free_Weekend_Header_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__9dbbW"></div><div class="NewsPreview_text__tQQDk"><h4 class="NewsPreview_subtitle__iu1uf">Check out the full game this week, including all of Season 2 and the new experimental mode<span> – 6/1/2026</span></h4><h1 class="NewsPreview_title__yoKzx">Open Play Week: June 2 - June 9</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Season 2 Combat Tuning Preview (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/season_2_combat_tuning_preview</id>
-        <link href="https://www.bungie.net/7/en/News/Article/season_2_combat_tuning_preview"/>
-        <updated>2026-05-29T19:44:43.933Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt4c6998cf1da6f5c0/6a176a4a9934cb08b297d3ed/Combat_Tuning_Header_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__9dbbW"></div><div class="NewsPreview_text__tQQDk"><h4 class="NewsPreview_subtitle__iu1uf">Prepare to be prepared.<span> – 5/29/2026</span></h4><h1 class="NewsPreview_title__yoKzx">Season 2 Combat Tuning Preview</h1></div>]]></content>
     </entry>
 </feed>
