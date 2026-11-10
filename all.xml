@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chubby1968.github.io/Feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-10T13:44:50.273Z</updated>
+    <updated>2026-11-10T22:26:45.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Marathon Update 1.1.9.7 (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7</id>
+        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7"/>
+        <updated>2026-11-10T22:26:45.188Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Ordnance Heist returning<span> – 6h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.9.7</h1></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marathon Symbiosis: Open Play Week and Crew Up Event (Bungie Marathon News)]]></title>
+        <id>https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up</id>
+        <link href="https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up"/>
+        <updated>2026-11-10T22:26:45.188Z</updated>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt565fc1371ea8d018/6af2ede0fc76733b95c2fb58/Crew_Up_Blog_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Play with your friends during Open Play Week<span> – 9h</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Symbiosis: Open Play Week and Crew Up Event</h1></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bungie Community Update – October 2026 (Bungie Marathon News)]]></title>
         <id>https://www.bungie.net/7/en/News/Article/bungiecommunityupdate_10_27</id>
@@ -164,19 +178,5 @@
         <link href="https://www.bungie.net/7/en/News/Article/season_2_key_dates"/>
         <updated>2026-06-24T08:38:03.304Z</updated>
         <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blte3a86f18b82a4a37/6a3acc9488fbfec304e91547/Front_Page_Image_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Mid-season begins July 21 and includes Vault Breaker, an experimental PVE mode on Cryo Archive.<span> – 6/23/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Key Dates</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get to Know Marathon’s Bungie Rewards (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/get_to_know_marathons_bungie_rewards</id>
-        <link href="https://www.bungie.net/7/en/News/Article/get_to_know_marathons_bungie_rewards"/>
-        <updated>2026-06-23T19:22:47.732Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt194c119903cc6cb1/6a3ac8b1e806623cce3531d6/Evergreen_Rewards_1920x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">How to secure exclusive merchandise for your IRL vault.<span> – 6/23/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Get to Know Marathon’s Bungie Rewards</h1></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon Update 1.1.0.3 (Bungie Marathon News)]]></title>
-        <id>https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_3</id>
-        <link href="https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_3"/>
-        <updated>2026-06-23T19:22:47.732Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt2da9ceda8d899126/69af552377fad000083ddd4a/Front_Page_Banner_1920x590.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">The one about Cryo Archive Sponsored Kits.<span> – 6/23/2026</span></h4><h1 class="NewsPreview_title__tjwyh">Marathon Update 1.1.0.3</h1></div>]]></content>
     </entry>
 </feed>
