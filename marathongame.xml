@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bungie.net/7/en/News/Marathon</id>
     <title>Bungie Marathon News</title>
-    <updated>2026-11-12T22:47:56.792Z</updated>
+    <updated>2026-11-13T13:17:49.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bungie.net/7/en/News/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bungie.net/7/en/News/Article/dev_deep_dive_expedition_phase_1</id>
         <link href="https://www.bungie.net/7/en/News/Article/dev_deep_dive_expedition_phase_1"/>
         <updated>2026-11-12T22:47:56.358Z</updated>
-        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt3fe29acb356f0d9b/6af4df796214fe37a16334a6/Expedition_Header_1080x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Symbiosis is the start of something new.<span> – 9h</span></h4><h1 class="NewsPreview_title__tjwyh">Dev Deep Dive: Expedition - Phase 1</h1></div>]]></content>
+        <content type="html"><![CDATA[<div style="background-image: url(&quot;https://images.contentstack.io/v3/assets/blte410e3b15535c144/blt3fe29acb356f0d9b/6af4df796214fe37a16334a6/Expedition_Header_1080x1080.jpg&quot;);" class="NewsPreview_thumbnail__qKjFr"></div><div class="NewsPreview_text__zeNkF"><h4 class="NewsPreview_subtitle__XkXBS">Symbiosis is the start of something new.<span> – 24h</span></h4><h1 class="NewsPreview_title__tjwyh">Dev Deep Dive: Expedition - Phase 1</h1></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marathon Update 1.1.9.7]]></title>
